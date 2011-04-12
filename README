@@ -1,0 +1,19 @@
+iTree is a project created for the course of Historical social and cultural context of interactive media of the interdisciplinary master in Cognitive Systems and Interactive Media http://csim.upf.edu. The concept of this project is that everything is in our hands, by using the allegory of planting (choosing) a seed and then making the tree grow with hand gestures.
+
+In order to run this application, you need to have the following things installed:
+- Processing (available at http://www.processing.org)
+- Reactivision (available at http://reactivision.sourceforge.net/)
+- TUIO Processing (available at http://reactivision.sourceforge.net/)
+
+Note: please read the instructions provided by each website for the installation of the software needed.
+
+In order to run the application you will need to do the following:
+- Download iTree.pde from the repository
+- You will need to print 2 fiducials that available here: http://reactivision.sourceforge.net/data/fiducials.pdf
+- Open iTree.pde with processing. Go to the line and change the value of fiducialMov and fiducialGen. In our example we used the fiducials number 24 and 35 but change them to the ones you chose and save the project.
+- Open and run ReacTIVision
+- Run iTree.pde
+
+One fiducial is responsible for choosing the seed and the other is responsible for making the tree grow. In order to change the seed, grow down the tree to the first level (seed) and change the seed.
+
+For more information, feel free to contact me at vidago@gmail.com. 
